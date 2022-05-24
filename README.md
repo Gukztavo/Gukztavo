@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gukztavo
 - 👀 I’m interested in code
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning Java language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via https://www.linkedin.com/in/gustavo-vicente-ozorio-a38586213/
 
