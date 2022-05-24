@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gukztavo
+- 👋 Hi, I’m @Gustavo Vicente Ozorio
 - 👀 I’m interested in code
 - 🌱 I’m currently learning Java language
 - 💞️ I’m looking to collaborate on ...
